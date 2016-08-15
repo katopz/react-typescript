@@ -1,0 +1,20 @@
+{
+  "name": "eikonelectron",
+  "version": "1.0.0",
+  "description": "Copycat from https://www.typescriptlang.org/docs/handbook/react-&-webpack.html",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "katopz <katopz@gmail.com> (https://katopz.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2"
+  }
+}
